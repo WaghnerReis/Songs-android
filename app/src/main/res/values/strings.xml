@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Songs</string>
+
+    <!-- Commons -->
+    <string name="error_empty_list">Nada para mostrar.</string>
+    <string name="message_loading">Carregando</string>
+    <string name="error_without_network">Você precisa de uma conexão com a internet para continuar.</string>
+    <string name="error_generic">Houve um erro ao conectar com o servidor.</string>
+
+    <!-- Artist -->
+    <string name="see_on_deezer">Ver no Deezer</string>
+    <string name="format_rank">Rank: %d</string>
+    <string name="didnt_possible_load_track">Não foi possível carregar sua música no momento</string>
+
+    <!-- Title -->
+    <string name="top_10">Top 10</string>
+
+</resources>
